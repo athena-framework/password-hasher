@@ -1,17 +1,17 @@
-name: athena-COMPONENT_NAME
+name: athena-password_hasher
 
 version: 0.1.0
 
-crystal: '>= 0.36.0'
+crystal: ~> 1.17
 
 license: MIT
 
-repository: https://github.com/athena-framework/COMPONENT_NAME
+repository: https://github.com/athena-framework/password-hasher
 
-documentation: https://athenaframework.org/NAMESPACE_NAME
+documentation: https://athenaframework.org/PasswordHasher
 
 description: |
-  DESCRIPTION.
+  Provides secure password hashing utilities.
 
 authors:
-  - CREATOR_NAME <CREATOR_EMAIL>
+  - George Dietrich <dev@dietrich.pub>
